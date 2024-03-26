@@ -43,7 +43,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- **Dataset**: The data used in this analysis was obtained from [insert source if applicable].
+- **Dataset**: The data used in this analysis was obtained from my statistics lecturer.
 - **Libraries**: We acknowledge the contributions of the Python community and the developers of Pandas, Matplotlib, and other libraries used in this project.
 
 ---
